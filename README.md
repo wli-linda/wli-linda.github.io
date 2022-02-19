@@ -1,6 +1,6 @@
 # Linda Li
 
-[About](/wli-linda/about.html) \| [Experiences](/wli-linda/experiences.html) \| [Projects](/wli-linda/projects.html)
+[About]({{site.baseurl}}about.html) \| [Experiences]({{site.baseurl}}experiences.html) \| [Projects]({{site.baseurl}}projects.html)
 
 Hello world.
 
