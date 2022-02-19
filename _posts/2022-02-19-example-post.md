@@ -4,7 +4,12 @@ title:  "Welcome to Jekyll!"
 author: Linda
 tags: test
 cateogry: test
+excerpt_separator: <!--more-->
 ---
+
+This is the first paragraph excerpt. 
+Can it be multiple lines? I assume not. \\
+Is this even a separate line in `.md`? Maybe not.
 
 # Example post
 
@@ -21,9 +26,7 @@ For example:
 
 Text formatting like **bold** and *italics*?
 
----
-excerpt_separator: <!--more-->
----
+<!--more-->
 
 Excerpt with multiple paragraphs
 
