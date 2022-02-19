@@ -1,3 +1,8 @@
+[About]({{site.baseurl}}/about.html) \| 
+[Experiences]({{site.baseurl}}/experiences.html) \| 
+[Projects]({{site.baseurl}}/projects.html) \| 
+[Posts]({{site.baseurl}}/posts.html)
+
 # Experiences
 You can find my full resume [here]({{site.baseurl}}/assets/docs/Wandan_Linda_Li_Resume.pdf).
 

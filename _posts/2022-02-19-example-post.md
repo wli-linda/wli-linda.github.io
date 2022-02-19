@@ -23,3 +23,9 @@ For example:
 ### Subheading
 
 Text formatting like **bold** and *italics*?
+
+Return to: 
+[About]({{site.baseurl}}/about.html) \| 
+[Experiences]({{site.baseurl}}/experiences.html) \| 
+[Projects]({{site.baseurl}}/projects.html) \| 
+[Posts]({{site.baseurl}}/posts.html)
