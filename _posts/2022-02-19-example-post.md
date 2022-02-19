@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+author: Linda
+tags: test
+cateogry: test
 ---
 
 # Example post
@@ -17,3 +20,15 @@ For example:
 ### Subheading
 
 Text formatting like **bold** and *italics*?
+
+---
+excerpt_separator: <!--more-->
+---
+
+Excerpt with multiple paragraphs
+
+Here's another paragraph in the excerpt.
+
+<!--more-->
+
+Out-of-excerpt.
