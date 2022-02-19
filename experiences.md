@@ -1,20 +1,22 @@
 # Experiences
 
-## Education
+### Education
 
-#### Yale-NUS College \| Aug 2018 - May 2023
-Bachelor of Sciences (Honours), Computer Science (4.74/5.0) <small>
-* Relevant coursework: Programming Language Design and Implementation
-* CCAs:</small>
+08/2018-05/2023 (expected)
+: B.S. Computer Science (4.74/5.0), **Yale-NUS College**
+ * Relevant coursework: Programming Language Design and Implementation
 
-#### National University of Singapore \| Jan 2022 - May 2022
-Cross-Registration, Computer Science
+08/2022-12/2022
+: Semester Exchange Program, **Wellesley College**
+### Internships
+05/2021-08/2021
+: Business Development Intern, **Jane Street Capital (Hong Kong)**
+ * did this
+ * and that
 
-#### Wellesley College \| Aug 2022 - Dec 2022
-Semester Exchange Program, Computer Science
+### Other Experience
+Projects
+: See my [Projects]({{site.baseurl}}/projects.html) page.
 
-
-## Internships
-
-#### Jane Street Capital \| May 2021 - Aug 2021
-Business Development Intern
+Tech Stack
+: OCaml, Java, Python, R, SQL, PostgreSQL
