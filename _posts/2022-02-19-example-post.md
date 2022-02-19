@@ -10,6 +10,7 @@ excerpt_separator: <!--more-->
 This is the first paragraph excerpt. 
 Can it be multiple lines? I assume not. \\
 Is this even a separate line in `.md`? Maybe not.
+<!--more-->
 
 # Example post
 
