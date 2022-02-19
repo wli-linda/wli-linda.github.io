@@ -1,0 +1,9 @@
+ ---
+ ---
+
+ @import "minima";
+
+  header ul, header p.view {
+    display: none;
+    visibility: hidden;
+  }
