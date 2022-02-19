@@ -3,7 +3,6 @@ layout: post
 title:  "Welcome to Jekyll!"
 author: Linda
 tags: test test2
-excerpt_separator: <!--more-->
 ---
 
 This is the first paragraph excerpt. 
