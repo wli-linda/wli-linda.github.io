@@ -1,4 +1,4 @@
-# Linda Li
+# Wandan (Linda) Li
 
 Hello world.
 
