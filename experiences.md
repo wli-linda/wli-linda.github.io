@@ -2,17 +2,19 @@
 
 ## Education
 
-### Yale-NUS College \| Aug 2018 - May 2023 \| 4.74/5.0
-Bachelor of Sciences (Honours), Computer Science
-* Relevant coursework: YSC4230 Programming Language Design and Implementation
+#### Yale-NUS College \| Aug 2018 - May 2023
+<small>Bachelor of Sciences (Honours), Computer Science (4.74/5.0) </small>
+* Relevant coursework: Programming Language Design and Implementation
 * CCAs:
 
-### National University of Singapore (School of Computing) \| Jan 2022 - May 2022
-Cross-Registration, Computer Science
-* Relevant coursework: CS2113 Software Engineering and Object-Oriented Programming
-* CCAs:
+#### National University of Singapore \| Jan 2022 - May 2022
+<small>Cross-Registration, Computer Science </small>
 
-### Wellesley College \| Aug 2022 - Dec 2022
-Semester Exchange Program, Computer Science
-* Relevant coursework: 
-* CCAs:
+#### Wellesley College \| Aug 2022 - Dec 2022
+<small>Semester Exchange Program, Computer Science </small>
+
+
+## Internships
+
+#### Jane Street Capital \| May 2021 - Aug 2021
+<small>Business Development Intern </small>
