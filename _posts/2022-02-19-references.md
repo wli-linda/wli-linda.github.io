@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "References"
+author: Linda
+tags: test
+published: false
+---
+
 A list of resources that I referred to for different components of this website, in no particular order:
 1. https://jekyllrb.com/docs/
 1. https://github.com/orderedlist/minimal

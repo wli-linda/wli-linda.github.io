@@ -1,24 +1,32 @@
 # Experiences
+You can also find my full resume [here]({{site.baseurl}}/assets/docs/Wandan_Linda_Li_Resume.pdf).
 
-### Education
+## Education
 
-Yale-NUS College <div style="text-align: right"> 08/2018-05/2023 (expected) </div>
+Yale-NUS College, 08/2018-05/2023 (expected)
 : B.S. Computer Science (4.74/5.0)
  * Relevant coursework: Programming Language Design and Implementation
 
-08/2022-12/2022
-: Semester Exchange Program, **Wellesley College**
+Wellesley Colleg, 08/2022-12/2022
+: Semester Exchange Program
 
 -----------
-### Internships
-05/2021-08/2021
-: Business Development Intern, **Jane Street Capital (Hong Kong)**
+## Internships
+Upcoming, 05/2022-08/2022
+: Software Engineering Intern, Singapore
  * did this
  * and that
 
-### Other Experience
+Jane Street Capital, 05/2021-08/2021
+: Business Development Intern, Hong Kong
+ * did this
+ * and that
+
+-----------
+## Other Experiences
 Projects
 : See my [Projects]({{site.baseurl}}/projects.html) page.
+
 
 Tech Stack
 : OCaml, Java, Python, R, SQL, PostgreSQL
