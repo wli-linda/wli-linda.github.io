@@ -1,4 +1,3 @@
-# wlinli
-Website
+# Linda Li
 
-Trying GitHub Pages.
+Hello world.
