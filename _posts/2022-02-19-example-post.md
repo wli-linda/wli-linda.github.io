@@ -24,6 +24,7 @@ For example:
 
 Text formatting like **bold** and *italics*?
 
+-----------
 Return to: 
 [About]({{site.baseurl}}/about.html) \| 
 [Experiences]({{site.baseurl}}/experiences.html) \| 

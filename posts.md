@@ -2,6 +2,7 @@
 [Experiences]({{site.baseurl}}/experiences.html) \| 
 [Projects]({{site.baseurl}}/projects.html) \| 
 [Posts]({{site.baseurl}}/posts.html)
+-----------
 
 # Posts
 Here is a list of my posts.
