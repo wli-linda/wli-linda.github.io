@@ -2,7 +2,8 @@
 
 /docs/*~
 /docs/*.*~
-/docs/*.jekyll-cache
-/docs/*.jekyll-metadata
+/docs/.jekyll-cache
+/docs/.jekyll-metadata
+/docs/.sass-cache
 
 *~

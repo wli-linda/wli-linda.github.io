@@ -9,5 +9,3 @@ permalink: /
 
 ![YNC]({{site.baseurl}}/assets/images/IMG_9640.JPG)
 
-[Wanna hear a joke about recursion?]({{site.baseurl}})
-
