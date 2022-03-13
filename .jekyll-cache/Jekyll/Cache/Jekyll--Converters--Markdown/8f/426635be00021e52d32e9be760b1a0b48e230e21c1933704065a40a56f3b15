@@ -1,0 +1,28 @@
+I"·<p>This is the first paragraph excerpt. 
+Can it be multiple lines? I assume not. <br />
+Is this even a separate line in <code class="language-plaintext highlighter-rouge">.md</code>? Maybe not.</p>
+
+<h1 id="example-post">Example post</h1>
+
+<p>Trying out Jekyll.</p>
+
+<h2 id="different-formats">Different formats</h2>
+
+<p>For example:</p>
+<ol>
+  <li>item 1</li>
+  <li>item 2</li>
+  <li>item 3</li>
+</ol>
+
+<h3 id="subheading">Subheading</h3>
+
+<p>Text formatting like <strong>bold</strong> and <em>italics</em>?</p>
+
+<hr />
+<p>Return to: 
+<a href="/about.html">About</a> | 
+<a href="/experiences.html">Experiences</a> | 
+<a href="/projects.html">Projects</a> | 
+<a href="/posts.html">Posts</a></p>
+:ET
