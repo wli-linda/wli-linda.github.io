@@ -1,7 +1,11 @@
-[About]({{site.baseurl}}/about.html) \| 
-[Experiences]({{site.baseurl}}/experiences.html) \| 
-[Projects]({{site.baseurl}}/projects.html) \| 
-[Posts]({{site.baseurl}}/posts.html)
+---
+permalink: /experiences/
+---
+
+[About]({{site.baseurl}}/about) \| 
+[Experiences]({{site.baseurl}}/experiences) \| 
+[Projects]({{site.baseurl}}/projects) \| 
+[Posts]({{site.baseurl}}/posts)
 
 # Experiences
 You can find my full resume [here]({{site.baseurl}}/assets/docs/Wandan_Linda_Li_Resume.pdf).

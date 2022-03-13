@@ -1,7 +1,11 @@
-[About]({{site.baseurl}}/about.html) \| 
-[Experiences]({{site.baseurl}}/experiences.html) \| 
-[Projects]({{site.baseurl}}/projects.html) \| 
-[Posts]({{site.baseurl}}/posts.html)
+---
+permalink: /posts/
+---
+
+[About]({{site.baseurl}}/about) \| 
+[Experiences]({{site.baseurl}}/experiences) \| 
+[Projects]({{site.baseurl}}/projects) \| 
+[Posts]({{site.baseurl}}/posts)
 
 # Posts
 Here is a list of my posts.

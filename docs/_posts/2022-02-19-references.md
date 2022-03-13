@@ -13,6 +13,6 @@ A list of resources that I referred to for different components of this website,
 1. https://dillinger.io/
 
 
-### Running Jekyll locally
+### [Running Jekyll locally](https://jekyllrb.com/docs/)
 1. run `bundle exec jekyll serve`
 1. go to http://localhost:4000
